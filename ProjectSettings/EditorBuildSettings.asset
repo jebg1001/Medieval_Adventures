@@ -11,4 +11,10 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/CastleScene.unity
     guid: 2e5f7313e3bfd494789ba95b76ef362e
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 27f2e3c000977214b8d34aac416f3b68
+  - enabled: 1
+    path: Assets/Scenes/Creditos.unity
+    guid: 637306e83dcc47a4ca4d3a6cd90b43f0
   m_configObjects: {}
